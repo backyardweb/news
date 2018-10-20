@@ -20,7 +20,7 @@ permalink_defaults:
 
 # Directory
 source_dir: source
-public_dir: public
+public_dir: docs
 tag_dir: tags
 archive_dir: archives
 category_dir: categories
@@ -75,6 +75,8 @@ pagination_dir: page
 ## Themes: https://hexo.io/themes/
 theme: theme
 
+# Deployment
+## Docs: https://hexo.io/docs/deployment.html
 # Deploy plugin
 deploy:
   type: git
