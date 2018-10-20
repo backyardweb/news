@@ -10,6 +10,10 @@ License URI: license.txt
 Tags: black, white, two-columns, fixed-layout, threaded-comments, full-width-template, custom-menu
 */
 
+#allheader {
+  position: relative;
+}
+
 /* Global
 ----------------------------------------------- */
 
