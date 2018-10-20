@@ -10,10 +10,6 @@ License URI: license.txt
 Tags: black, white, two-columns, fixed-layout, threaded-comments, full-width-template, custom-menu
 */
 
-#allheader {
-  position: relative;
-}
-
 /* Global
 ----------------------------------------------- */
 
@@ -307,8 +303,6 @@ embed, iframe, object {
 
 .sf-menu li ul {
   top: -999em;
-  /*position: absolute*/
-  ;
   z-index: 900;
 }
 
@@ -488,7 +482,6 @@ embed, iframe, object {
     text-align: left;
   }
   #main-navigation>.sf-menu>ul {
-    /*position: absolute;*/
     top: 0;
     left: 0;
     width: 100%;
