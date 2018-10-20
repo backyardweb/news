@@ -75,7 +75,11 @@ pagination_dir: page
 ## Themes: https://hexo.io/themes/
 theme: theme
 
-# Deployment
-## Docs: https://hexo.io/docs/deployment.html
+# Deploy plugin
 deploy:
-  type:
+  type: git
+  repo: https://github.com/backyardweb/news
+  branch: static
+  message: Deploying static site
+  name: tehp
+  email: hello@maccraig.net
