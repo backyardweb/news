@@ -78,7 +78,7 @@ theme: theme
 # Deploy plugin
 deploy:
   type: git
-  repo: https://github.com/backyardweb/news
+  repo: git@github.com:backyardweb/news.git
   branch: static
   message: Deploying static site
   name: tehp
