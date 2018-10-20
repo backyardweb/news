@@ -9,4 +9,6 @@ categories:
   - meta
 ---
 
-Welcome to backyard. This post is just a test and more information will be provided soon.
+Welcome to Backyard. This post is just a test and more information will be provided soon.
+
+This site is still under active development. If you are interested in contacting us, please use our personal emails via our author website. 

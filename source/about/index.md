@@ -3,6 +3,8 @@ date: 2018-10-17 00:00:00
 comments: false
 ---
 
-# Backyard
+# What is Backyard?
 
-**Laid back news**.
+Welcome to our information page. Here you will find any information regarding contacting the site administrators, or learning about our structure.
+
+More information to come.
