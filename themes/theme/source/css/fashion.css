@@ -303,7 +303,8 @@ embed, iframe, object {
 
 .sf-menu li ul {
   top: -999em;
-  position: absolute;
+  /*position: absolute*/
+  ;
   z-index: 900;
 }
 
@@ -483,7 +484,7 @@ embed, iframe, object {
     text-align: left;
   }
   #main-navigation>.sf-menu>ul {
-    position: absolute;
+    /*position: absolute;*/
     top: 0;
     left: 0;
     width: 100%;
