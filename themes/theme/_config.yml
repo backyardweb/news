@@ -46,6 +46,7 @@ sidebar: right
 widgets:
 - social
 - recent_posts
+- advert
 - category
 - tag
 - archive
