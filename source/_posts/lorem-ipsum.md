@@ -2,6 +2,7 @@
 title: Lorem Ipsum
 author: Mackenzie Craig
 author_link: https://maccraig.net
+date: 2018-10-18
 tags:
   - random
   - example
