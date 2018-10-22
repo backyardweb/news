@@ -62,7 +62,7 @@ h6 {
 /* Links */
 
 a {
-  color: #1fa0ae;
+  color: #387F26;
   outline: none;
   -webkit-transition: all 0.14s ease 0s;
   -moz-transition: all 0.14s ease 0s;
@@ -444,7 +444,7 @@ embed, iframe, object {
 }
 
 #main-navigation li a:hover, #main-navigation li.sfHover>a, #main-navigation li.current_page_item>a, #main-navigation li.current-menu-item>a, #main-navigation li.current-menu-parent>a, #main-navigation li.current-page-parent>a, #main-navigation li.current-page-ancestor>a, #main-navigation li.current_page_ancestor>a {
-  color: #1fa0ae;
+  color: #387F26;
 }
 
 #main-navigation li:hover li a, #main-navigation li.sfHover li a {
@@ -598,7 +598,7 @@ embed, iframe, object {
 }
 
 .entry-title a:hover {
-  color: #1fa0ae;
+  color: #387F26;
 }
 
 .entry-meta {
@@ -843,7 +843,7 @@ body.search .page .entry-footer {
 }
 
 .site-content .post-navigation a:hover {
-  color: #1fa0ae;
+  color: #387F26;
   background: none;
   border: none;
 }
@@ -932,7 +932,7 @@ body.search .page .entry-footer {
 }
 
 .comment-list li.comment .comment-author .fn a:hover {
-  color: #1fa0ae;
+  color: #387F26;
 }
 
 .comment-list li.comment .comment-metadata {
@@ -1048,7 +1048,7 @@ body.search .page .entry-footer {
 }
 
 .widget li a:hover {
-  color: #1fa0ae;
+  color: #387F26;
 }
 
 .widget-tab-nav {
@@ -1215,7 +1215,7 @@ ul.widget-tab-nav {
 }
 
 .widget-social-icons li a:hover [class^="fa"]:before {
-  background: #1fa0ae;
+  background: #387F26;
 }
 
 /* Widget Flickr */
@@ -1319,7 +1319,7 @@ ul.widget-tab-nav {
 }
 
 .site-extra .widget-social-icons li a:hover [class^="ico-"]:before {
-  color: #1fa0ae;
+  color: #387F26;
 }
 
 /* FOOTER
@@ -1341,7 +1341,7 @@ ul.widget-tab-nav {
 }
 
 .site-footer a:hover {
-  color: #1fa0ae;
+  color: #387F26;
 }
 
 .site-info {
